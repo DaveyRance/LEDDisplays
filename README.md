@@ -55,5 +55,8 @@ Controll WLED, FPP using xLights https://www.youtube.com/watch?v=LkGCo9Gi8mk
         *  https://pixelcontroller.com/store/products/70-f16v4.html  
         *  https://microcyb.com/index.html  
       * Check out https://xlights.org/16-port-rgb-pixel-controllers/ for list of controllers. (From what i have seen the Falcon controllers from Pxelcontroller seem to be spoken well of.)
-
+  * Store that may or maynot be any good for getting leds https://www.rgb-man.com/online-store  
+  * China stores:
+    * https://www.ledyilighting.com/the-ultimate-guide-to-addressable-led-strip/
+    * https://www.aliexpress.us/item/3256802704468559.html
 
