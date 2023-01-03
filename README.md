@@ -44,7 +44,8 @@ Controll WLED, FPP using xLights https://www.youtube.com/watch?v=LkGCo9Gi8mk
         * Supports using LedFx for music effects https://github.com/LedFx/LedFx  
         * Supports control from xLights / FPP  
         * Suggested to use a WT32-ETH01 if planning on using in a bigger system and running over ethernet not wifi. (If syncing of effects is not time critical then wifi may work)  
-        * Will need a level shifter to deal with 3v3 vs 5v signaling  
+        * Will most likely need a level shifter to deal with 3v3 vs 5v signaling 
+        * Will test https://www.adafruit.com/product/5395 as a small controller to see if it will work for basic tasks.
      2. AThom WLED ESP32 controller
         * https://www.athom.tech/blank-1/wled-esp32-music-addressable-led-strip-controller
         * More of a Plug in play WLED controller over wifi. In mounted case so better for bench work / testing / higher partner acceptance factor.
